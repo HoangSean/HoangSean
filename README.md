@@ -8,7 +8,7 @@ m=-b/2
 r=m+sqrt(m^2-c')
 s=m-sqrt(m^2-c')
 (r,s is the solution)
-
+tradition
 
 
 
