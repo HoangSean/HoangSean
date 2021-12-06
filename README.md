@@ -8,3 +8,25 @@ incite: to encourage someone to do or feel something UNPLEASANT OR VIOLENT
 
 VOA, BBC, AMERICAN ENGLISH, CAMBRIDGE BLOG, BRITISH COUNCIL, ... 
 
+
+
+
+
+B
+c
+d
+b
+a
+d
+b
+a
+a
+b
+d
+b
+a
+c
+c
+a
+c
+d
