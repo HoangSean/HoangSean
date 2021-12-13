@@ -27,6 +27,6 @@ b
 a
 c
 c
-a
+a   1. 1 tense back      2. oder of question-statement (trật tự câu hỏi)    3.times, person (ngôi), possesion( sở hữu): you-she, my-his
 c
 d
