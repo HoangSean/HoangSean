@@ -1,32 +1,25 @@
-evoked: to make someone remember something or feel an emotion
-reminsce: to TALK OR WRITE about past experiences that you remember with pleasure
-instill: to put a feeling, IDEA, or principle gradually into someone's mind, so that it has a strong influence on the way that person thinks or behaves
-incite: to encourage someone to do or feel something UNPLEASANT OR VIOLENT
+a = float(input("a = "))
+b = float(input("b = "))
+c = float(input("c = "))
+print(a, "x^2+", b, "x+",c)
+delta = b*b - 4*a*c 
+import math
+if delta > 0 :
+	print("Pt có nghiệm")
+	x1 = (-b + (delta)**0.5)/2*a 
+	x2 = (-b - (delta)**0.5)/2*a 
+	print("Các nghiệm = ", x1, "và", x2)
+elif delta == 0 :
+	print("Nghiệm kép")
+	x3 = -b/2*a
+	print("Nghiệm kép = ", x3)
+else:
+	print("Vô nghiệm")
 
+if a > 0 :
+	x_min = -b/2*a 
+	print("Hàm đồng biến trên (-vô cùng;", x_min, ") và nghịch biến trên (", x_min, ";+vô cùng)")
+else:
+	x_max = -b/2*a 
+	print("Hàm nghịch biến trên (-vô cùng;", x_max, ") và đồng biến trên (", x_max, ";+vô cùng)")
 
-
-
-VOA, BBC, AMERICAN ENGLISH, CAMBRIDGE BLOG, BRITISH COUNCIL, ... 
-
-
-
-
-
-B
-c
-d
-b
-a
-d
-b
-a
-a
-b
-d
-b
-a
-c
-c
-a   1. 1 tense back      2. oder of question-statement (trật tự câu hỏi)    3.times, person (ngôi), possesion( sở hữu): you-she, my-his
-c
-d
